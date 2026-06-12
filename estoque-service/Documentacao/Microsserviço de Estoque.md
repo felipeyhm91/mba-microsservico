@@ -16,3 +16,7 @@ O Test Suite foi implementado utilizando pytest e contempla três cenários prin
  - Validação de erro quando a quantidade solicitada para retirada é superior ao saldo disponível. 
  
 Esses testes garantem o funcionamento correto das regras de negócio implementadas.
+
+Para a realização do testes, execute: py -m pytest tests -v
+
+<img width="923" height="476" alt="image" src="https://github.com/user-attachments/assets/4a67acae-0e08-4a6f-968b-dd4cf5c23f52" />
