@@ -19,4 +19,10 @@ O Test Suite foi implementado utilizando pytest e contempla três cenários prin
  
 Esses testes garantem o funcionamento correto das regras de negócio implementadas.
 
-Para a realização do testes, execute: py -m pytest tests -v
+Instrução técnica, siga os passos abaixo: 
+  1) No terminal, navegue até a pasta ..\mba-microsservico-main\estoque-service
+     cd estoque-service
+  2) Execute o Test Suite  
+     py -m pytest tests -v
+
+<img width="792" height="209" alt="image" src="https://github.com/user-attachments/assets/49fc10c6-14db-41a7-8c77-c0ba02a605a0" />
