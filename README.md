@@ -1,4 +1,4 @@
-Documentação Microsserviço de Estoque
+Documentação - Microsserviço de gerenciamento de estoque
 
 Este projeto consiste em um microsserviço de gerenciamento de estoque desenvolvido em Python, com foco na aplicação dos conceitos de Engenharia de Software. 
 
