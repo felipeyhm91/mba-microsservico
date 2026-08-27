@@ -18,7 +18,7 @@ O Test Suite foi implementado utilizando pytest e contempla três cenários prin
 Esses testes garantem o funcionamento correto das regras de negócio implementadas.
 
 Instrução técnica, siga os passos abaixo: 
-  1) Efetue o Download do Projeto para o seu desktop através do Botão "Download Zip"</br>
+  1) Efetue o Download do Projeto através do Botão "Download Zip"</br>
      <img width="331" height="161" alt="image" src="https://github.com/user-attachments/assets/d52a57ae-f194-4afa-838c-c52825210329" />
 
   2) Efetua a Extração Do Projeto no sistema operacional.
