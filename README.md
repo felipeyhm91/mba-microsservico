@@ -1,6 +1,4 @@
-Link Projeto GITHub: https://github.com/felipeyhm91/mba-microsservico/tree/main/estoque-service
-
-Documentação Microsserviço de Estoque – 
+Documentação Microsserviço de Estoque
 
 Este projeto consiste em um microsserviço de gerenciamento de estoque desenvolvido em Python, com foco na aplicação dos conceitos de Engenharia de Software. 
 
