@@ -26,6 +26,8 @@ Instrução técnica, siga os passos abaixo:
 
   3) Através do "Visual Studio Code", botão "Open Folder", selecione a pasta "mba-microsservico-main" para abrir o projeto</br>
      <img width="262" height="170" alt="image" src="https://github.com/user-attachments/assets/61a4797c-70dd-4ba1-a63c-0565f5c5391e" />
+     <img width="794" height="372" alt="image" src="https://github.com/user-attachments/assets/fca76e0f-54d2-4eab-979e-a7b2c8c4da05" />
+
 
      
   4) Clique com o botão direito do mouse na pasta "estoque-service" e escolha a opção "Open in Integraded Terminal"</br>
