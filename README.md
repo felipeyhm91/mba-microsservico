@@ -34,5 +34,4 @@ Instrução técnica, siga os passos abaixo:
      <img width="380" height="228" alt="image" src="https://github.com/user-attachments/assets/e2633a38-a357-494a-ad86-e62ccbe5fa24" />
 
   5) Efetue o "Test Suite" através do comando "py -m pytest tests -v" no Terminal 
-
-<img width="792" height="209" alt="image" src="https://github.com/user-attachments/assets/49fc10c6-14db-41a7-8c77-c0ba02a605a0" />
+     <img width="792" height="209" alt="image" src="https://github.com/user-attachments/assets/49fc10c6-14db-41a7-8c77-c0ba02a605a0" />
