@@ -21,7 +21,7 @@ Instrução técnica, siga os passos abaixo:
   1) Efetue o Download do Projeto através do Botão "Download Zip"</br>
      <img width="331" height="161" alt="image" src="https://github.com/user-attachments/assets/d52a57ae-f194-4afa-838c-c52825210329" />
 
-  2) Efetua a Extração Do Projeto no sistema operacional.
+  2) Efetua o unzip do Projeto
   3) Abra o Projeto através do "Visual Studio Code"
   4) Navegue até a pasta ...\mba-microsservico-main\estoque-service</br>
      ..\mba-microsservico-main\mba-microsservico-main\estoque-service>
