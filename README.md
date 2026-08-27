@@ -21,12 +21,16 @@ Instrução técnica, siga os passos abaixo:
   1) Efetue o Download do Projeto através do Botão "Download Zip"</br>
      <img width="331" height="161" alt="image" src="https://github.com/user-attachments/assets/d52a57ae-f194-4afa-838c-c52825210329" />
 
-  2) Efetua o unzip do Projeto
-  3) Abra o Projeto através do "Visual Studio Code"
-  4) Navegue até a pasta ...\mba-microsservico-main\estoque-service</br>
-     ..\mba-microsservico-main\mba-microsservico-main\estoque-service>
-     <img width="773" height="79" alt="image" src="https://github.com/user-attachments/assets/ad2f7158-eaa0-48e0-b8de-5d74b5aaa515" />
+  2) Efetua o unzip do Projeto</br>
+     <img width="456" height="242" alt="image" src="https://github.com/user-attachments/assets/739271e2-38a0-47fc-b0e9-726489af1626" />
 
-  5) Efetue o "Test Suite" através do comando py -m pytest tests -v
+  3) Através do "Visual Studio Code", botão "Open Folder", selecione a pasta "mba-microsservico-main" para abrir o projeto</br>
+     <img width="262" height="170" alt="image" src="https://github.com/user-attachments/assets/61a4797c-70dd-4ba1-a63c-0565f5c5391e" />
+
+     
+  4) Clique com o botão direito do mouse na pasta "estoque-service" e escolha a opção "Open in Integraded Terminal"</br>
+     <img width="380" height="228" alt="image" src="https://github.com/user-attachments/assets/e2633a38-a357-494a-ad86-e62ccbe5fa24" />
+
+  5) Efetue o "Test Suite" através do comando "py -m pytest tests -v" no Terminal 
 
 <img width="792" height="209" alt="image" src="https://github.com/user-attachments/assets/49fc10c6-14db-41a7-8c77-c0ba02a605a0" />
